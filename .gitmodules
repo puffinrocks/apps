@@ -1,0 +1,36 @@
+[submodule "_dns"]
+	path = _dns
+	url = git@github.com:puffinrocks/_dns
+[submodule "ghost"]
+	path = ghost
+	url = git@github.com:puffinrocks/ghost
+[submodule "flarum"]
+	path = flarum
+	url = git@github.com:puffinrocks/flarum
+[submodule "gogs"]
+	path = gogs
+	url = git@github.com:puffinrocks/gogs
+[submodule "_mail"]
+	path = _mail
+	url = git@github.com:puffinrocks/_mail
+[submodule "_mariadb"]
+	path = _mariadb
+	url = git@github.com:puffinrocks/_mariadb
+[submodule "_mongo"]
+	path = _mongo
+	url = git@github.com:puffinrocks/_mongo
+[submodule "owncloud"]
+	path = owncloud
+	url = git@github.com:puffinrocks/owncloud
+[submodule "_proxy"]
+	path = _proxy
+	url = git@github.com:puffinrocks/_proxy
+[submodule "redmine"]
+	path = redmine
+	url = git@github.com:puffinrocks/redmine
+[submodule "rocketchat"]
+	path = rocketchat
+	url = git@github.com:puffinrocks/rocketchat
+[submodule "wordpress"]
+	path = wordpress
+	url = git@github.com:puffinrocks/wordpress
