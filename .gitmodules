@@ -1,6 +1,3 @@
-[submodule "_dns"]
-	path = _dns
-	url = git@github.com:puffinrocks/_dns
 [submodule "ghost"]
 	path = ghost
 	url = git@github.com:puffinrocks/ghost
@@ -13,12 +10,6 @@
 [submodule "_mail"]
 	path = _mail
 	url = git@github.com:puffinrocks/_mail
-[submodule "_mariadb"]
-	path = _mariadb
-	url = git@github.com:puffinrocks/_mariadb
-[submodule "_mongo"]
-	path = _mongo
-	url = git@github.com:puffinrocks/_mongo
 [submodule "owncloud"]
 	path = owncloud
 	url = git@github.com:puffinrocks/owncloud
