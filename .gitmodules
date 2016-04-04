@@ -7,15 +7,9 @@
 [submodule "gogs"]
 	path = gogs
 	url = git@github.com:puffinrocks/gogs
-[submodule "_mail"]
-	path = _mail
-	url = git@github.com:puffinrocks/_mail
 [submodule "owncloud"]
 	path = owncloud
 	url = git@github.com:puffinrocks/owncloud
-[submodule "_proxy"]
-	path = _proxy
-	url = git@github.com:puffinrocks/_proxy
 [submodule "redmine"]
 	path = redmine
 	url = git@github.com:puffinrocks/redmine
