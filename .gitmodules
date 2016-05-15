@@ -27,4 +27,4 @@
 	url = git@github.com:puffinrocks/proxy
 [submodule "ttrss"]
 	path = ttrss
-	url = git@github.com:puffinrocks/ttrss.git
+	url = git@github.com:puffinrocks/ttrss
