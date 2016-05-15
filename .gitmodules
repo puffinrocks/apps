@@ -25,3 +25,6 @@
 [submodule "_proxy"]
 	path = _proxy
 	url = git@github.com:puffinrocks/proxy
+[submodule "ttrss"]
+	path = ttrss
+	url = git@github.com:puffinrocks/ttrss.git
