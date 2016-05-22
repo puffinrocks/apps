@@ -28,3 +28,6 @@
 [submodule "ttrss"]
 	path = ttrss
 	url = git@github.com:puffinrocks/ttrss
+[submodule "piwik"]
+	path = piwik
+	url = git@github.com:puffinrocks/piwik.git
