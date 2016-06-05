@@ -31,3 +31,6 @@
 [submodule "wallabag"]
 	path = wallabag
 	url = git@github.com:puffinrocks/wallabag.git
+[submodule "piwik"]
+	path = piwik
+	url = git@github.com:puffinrocks/piwik.git
