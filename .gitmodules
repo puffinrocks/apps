@@ -34,3 +34,6 @@
 [submodule "piwik"]
 	path = piwik
 	url = git@github.com:puffinrocks/piwik.git
+[submodule "nextcloud"]
+	path = nextcloud
+	url = git@github.com:puffinrocks/nextcloud.git
