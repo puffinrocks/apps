@@ -1,0 +1,23 @@
+version: '2'
+
+services:
+ 
+    backup:
+        image: loomchild/volume-backup:latest
+        volumes: 
+            - volume:/volume
+            - backup:/backup
+        command: ["backup", "${ARCHIVE}"]
+
+    list:
+        image: debian
+        command: ["echo", "aaa"]
+
+volumes:
+    volume:
+        external:
+            name: ${VOLUME}
+    backup:
+        external:
+            name: ${BACKUP}
+
