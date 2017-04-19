@@ -9,9 +9,18 @@ services:
             - backup:/backup
         command: ["backup", "${ARCHIVE}"]
 
+    restore:
+        image: loomchild/volume-backup:latest
+        volumes: 
+            - volume:/volume
+            - backup:/backup
+        command: ["restore", "${ARCHIVE}"]
+
     list:
-        image: debian
-        command: ["echo", "aaa"]
+        image: alpine
+        volumes: 
+            - backup:/backup
+        command: ["sh", "-c", "sleep 0.1; ls -1 --color=never /backup/${ARCHIVE}"]
 
 volumes:
     volume:
