@@ -40,3 +40,6 @@
 [submodule "nextcloud"]
 	path = nextcloud
 	url = git@github.com:puffinrocks/nextcloud.git
+[submodule "mastodon"]
+	path = mastodon
+	url = git@github.com:puffinrocks/mastodon.git
