@@ -7,9 +7,6 @@
 [submodule "gogs"]
 	path = gogs
 	url = git@github.com:puffinrocks/gogs
-[submodule "owncloud"]
-	path = owncloud
-	url = git@github.com:puffinrocks/owncloud
 [submodule "redmine"]
 	path = redmine
 	url = git@github.com:puffinrocks/redmine
