@@ -6,11 +6,11 @@ This is the application catalog for [Puffin](http://puffin.rocks).
 
 ## Adding a new application
 
-All you need is a standard docker-compose.yml and README.md files - Puffin does not require any custom 
+All you need is a standard docker-compose.yml and README.md files - Puffin does not require any custom
 application manifest.
-Check how existing applications in this repository are configured as an example. 
+Check how existing applications in this repository are configured as an example.
 
-Once you have configured and tested the new application, please contact us to create a repository for it under 
+Once you have configured and tested the new application, please contact us to create a repository for it under
 [puffinrocks](https://github.com/puffinrocks) organisation or
 directly fork [apps](https://github.com/puffinrocks/apps) repository,
 add your own repository to it as a submodule and submit a Pull Request with your changes.
